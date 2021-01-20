@@ -1,4 +1,4 @@
-### Frontend Developer, living in Moscow :ru: from Lankaran :az: 
+### Frontend Developer, living in Moscow :ru: from Lankaran :aze: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horezmi&show_icons=true&theme=radical)](https://github.com/horezmi)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=horezmi&show_icons=true&theme=radical)](https://github.com/horezmi)
