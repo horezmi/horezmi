@@ -1,6 +1,6 @@
-# Frontend Developer, living in Moscow  :ru:  from Lankaran  :azerbaijan:
+## Frontend Developer, living in Moscow  :ru:  from Lankaran  :azerbaijan:
 
-## Student at 21 School by Sber(42), alumni of Bauman University
+### Student at 21 School by Sber(42), alumni of Bauman University
 
 ### Love to code and travel 
 
