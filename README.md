@@ -1,4 +1,4 @@
-### Frontend Developer / living in Moscow :ru: / from Lankaran :azerbaijan:
+### Frontend Developer / living in Baku :azerbaijan:
 
 #### Alumni of Bauman University and 21 school
 #### Traveler / visited 13 countries
